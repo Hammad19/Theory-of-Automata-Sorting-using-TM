@@ -1,0 +1,9 @@
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion-sort-using-TM.csproj.AssemblyReference.cache
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion_sort_using_TM.Form1.resources
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion-sort-using-TM.csproj.GenerateResource.cache
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\bin\Debug\insertion-sort-using-TM.exe.config
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\bin\Debug\insertion-sort-using-TM.exe
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\bin\Debug\insertion-sort-using-TM.pdb
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion-sort-using-TM.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion-sort-using-TM.exe
+C:\Users\dell\OneDrive\Desktop\Sorting-using-TM-main\insertion-sort-using-TM\obj\Debug\insertion-sort-using-TM.pdb
